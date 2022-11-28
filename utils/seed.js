@@ -10,7 +10,7 @@ connection.once('open', async () => {
 
     await User.create([{
         username: "Andrew",
-        email: "Ammassey42@gmail.com"
+        email: "ammassey42@gmail.com"
     },
     {
         username: "Joe",
